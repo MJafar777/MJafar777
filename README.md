@@ -212,6 +212,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
   <!-- https://media.giphy.com/media/xUPGcEliCc7bETyfO8 -->
   
-  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="600"/></a>
+  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a>
   
 
