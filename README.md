@@ -22,7 +22,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com) : [mirzaraximovjafar2001@gmail.com])
+- 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 - This my phone number :  <a href="#">
   <img align="left" alt="" width="30px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />+998977773767
@@ -43,10 +43,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
+<p align="center">
 JavaScript 5 hrs 12 mins ████████████████████▒░░ 90.50% 
 React      3 hrs 50 mins ███████████████████▓░░░ 87.46% 
-```
+</p>
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
