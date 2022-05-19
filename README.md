@@ -6,9 +6,6 @@
 <a href="https://t.me/uzb7773767">
   <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
 </a>
-<a href="+998977773767">
-  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />
-</a>
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -25,8 +22,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:MJafar77718@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:mirzaraximovjafar2001@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- <a href="#">
+  <img align="left" alt="" width="30px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />this my phone number +998977773767
+</a>
 
 **languages and tools:**  
 
