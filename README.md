@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
 - 💬 ask me about anything, i am happy to help;
-- This my phone number : <img align="left" alt="" width="30px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767">+99897)777-37-67</a>  
+- <img align="left" alt="" width="30px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>  
 
 
 **languages and tools:**  
