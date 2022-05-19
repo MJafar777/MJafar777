@@ -146,9 +146,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 💻 Software and tools
 
-<p><a href="#">
-        <img alt="GIT"
-             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<p>
 <!--     <a href="#">
         <img alt="Conda"
              src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
@@ -156,11 +154,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
         <img alt="PyCharm"
              src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> -->
 <a href="#">
-        <img alt="Vsual Studio"
-             src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
+        <img alt="GIT"
+             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></a>
 
-  <p style="width=50"><a href="#"><img alt="#"
-                     src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?style="></a></p>
+<a href="#">
+        <img alt="#"
+             src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="70" width="70"></a>
+  
+  
+<a href="#">
+        <img alt="Vsual Studio"
+             src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow" ></a>
 <!--   https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif -->
     <!-- <a href="#">
         <img alt="Postman"
@@ -183,7 +187,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MJafar777&theme=monokai-metallian&hide_border=true"/>
   </a> -->
   <a href="#">
-    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" height="48" width="48"/>
+    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
   </a>
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
@@ -207,6 +211,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
   <!-- https://media.giphy.com/media/xUPGcEliCc7bETyfO8 -->
   
-  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" /></a>
+  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="600"/></a>
   
 
