@@ -45,8 +45,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 <br />
 <br />
-<pre align="center">
-JavaScript   5 hrs 12 mins ████████████████████▒░░ 90.50% 
+<pre align="left">
+JavaScript 5 hrs 12 mins ████████████████████▒░░ 90.50% 
 <br />
 React   3 hrs 50 mins ███████████████████▓░░░ 87.46% 
 </pre>
