@@ -1,6 +1,13 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> . I'm Ja'far , Can I halp you ?
+
 <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://t.me/uzb7773767">
+  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
+</a>
+<a href="+998977773767">
+  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/o2V3s21kb9jPO/giphy.gif" />
 </a>
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
