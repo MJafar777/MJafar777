@@ -80,7 +80,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
    <a href="https://github.com/MJafar777">
     <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7"/></a>
-  <p><a align="center" href="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MJafar777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="430" height="200"/></a>
+  
+  <p><a align="center" href="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MJafar777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400"/></a>
     
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="MJafar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
