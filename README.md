@@ -214,4 +214,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
   <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a>
   
-
+<!-- https://giphy.com/search/developer  <--bu gif olish mumkin bo'lgan site-->
