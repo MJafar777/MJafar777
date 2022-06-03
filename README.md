@@ -1,10 +1,10 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" > . I'm Ja'far , Can I halp you ?
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> . I'm Ja'far , Can I halp you ?
 
 <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://t.me/uzb7773767">
-  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" />
+  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
 </a>
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
 - 💬 ask me about anything, i am happy to help;
-- <img align="left" alt="" width="30px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>  
+- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>  
 
 
 **languages and tools:**  
