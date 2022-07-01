@@ -3,7 +3,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-//hi
+
 <a href="https://t.me/uzb7773767">
   <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
 </a>
