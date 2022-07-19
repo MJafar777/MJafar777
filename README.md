@@ -226,7 +226,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 
-<!--  |                                                     Preview                                                     |
+<!--  |   nma gap                                                  Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
 this is my readme file
