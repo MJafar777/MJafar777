@@ -244,6 +244,6 @@ this is my readme file
 
   <!-- https://media.giphy.com/media/xUPGcEliCc7bETyfO8 -->
   
-  <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a>
+  <!-- <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a> -->
   
 <!-- https://giphy.com/search/developer  <--bu gif olish mumkin bo'lgan site-->
