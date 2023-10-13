@@ -9,18 +9,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, I am happy to help;
 -  📞 This my phone number : <a href="https://t.me/uzb7773767">97)777-37-67</a>
 - 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
-
- <div align="center">
-  
-<a href="https://t.me/UZ7773767">
-  <img align="left" alt="" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/640px-Telegram_logo_icon.svg.png" height="25px"/>
-</a>
-<a href="https://twitter.com/MJafar777">
+  <a href="https://t.me/UZ7773767">
+ <img align="left" alt="" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/640px-Telegram_logo_icon.svg.png" height="25px"/>
+</a> 
+ <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jafar-mirzaraximov-821785248/">
   <img align="left" alt="MJafar777's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
+  
+
+
+
 </div>
 
 ### Languages and tools:
