@@ -4,17 +4,17 @@ hi, I'm [MJafar777](http://jafarbek.uz/), a passionate self-taught full-stack we
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
 - 💬 ask me about anything, I am happy to help;
-- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>
+- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a 
+  href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>
   <br />
+  
 <a href="https://t.me/UZ7773767">
-  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
+  <img align="left" alt="" width="32px" src="[https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif](https://icon-icons.com/icon/telegram-social-network-communication-chat-interaction/192276)" height="25px"/>
 </a>
-
 
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.linkedin.com/in/jafar-mirzaraximov-821785248/">
   <img align="left" alt="MJafar777's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
-
+<br />
 
 **Languages and tools:**  
 
