@@ -1,31 +1,29 @@
 ## Hey there. I'm Ja'far, can I help you?
 
-hi, I'm [MJafar777](http://jafarbek.uz/), a passionate self-taught full-stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
+Hi, I'm [Jafar](http://jafarbek.uz/), a passionate self-taught full-stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
-  
-- 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
+
 - 💬 ask me about anything, I am happy to help;
-- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a 
-  href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>
-  <br />
+-  📞 This my phone number : <a href="https://t.me/uzb7773767">97)777-37-67</a>
+- 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
+
+ <div align="center">
   
 <a href="https://t.me/UZ7773767">
   <img align="left" alt="" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/640px-Telegram_logo_icon.svg.png" height="25px"/>
 </a>
-
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jafar-mirzaraximov-821785248/">
   <img align="left" alt="MJafar777's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
-<br />
+</div>
 
-**Languages and tools:**  
-
+### Languages and tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -37,40 +35,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-<br />
-<br />
-<pre align="left">
-JavaScript 5 hrs 12 mins ████████████████████▒░░ 90.50% 
-<br />
-React   3 hrs 50 mins ███████████████████▓░░░ 87.46% 
-</pre>
-<!--END_SECTION:waka-->
 
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/MJafar777" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/MJafar777?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MJafar777"/></a>
   <a href="https://github.com/MJafar777?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MJafar777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/MJafar777">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MJafar777&style=for-the-badge"/></a>
 </p>
 
-<br />
 
 ## Snake Game
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
@@ -79,22 +51,41 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&theme=gotham" alt="MJafar777" />
-</div>
-  
-  
-  # 📈♾️💻 Preview      
+</div>     
 
   ## 📊 Github stats
   
    <a href="https://github.com/MJafar777">
-    <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7"/></a>
+    <img aligin="center" alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7" width="100%" /></a>
   
-  <p><a align="center" href="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MJafar777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400"/></a>
+  <p aligin="center" justify="center"><a align="center" href="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="MJafar777's Github Stats"src="https://github-readme-stats.vercel.app/api?username=MJafar777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="100%"/></a>
     
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="MJafar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <img width="100%" alt="MJafar777's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MJafar777&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
- <!-- ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)      -->                                                   
+ <!-- ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)      -->
+
+ ## 🔥 Streak stats
+<p align="center">
+<!--   <a href="#">
+    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MJafar777&theme=monokai-metallian&hide_border=true"/>
+  </a> -->
+  <a href="#">
+    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
+  </a>
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+</p>
+<div aligin="center">
+- 🔭 I’m currently working on Frontend Development <br />
+- 🌱 I’m currently learning React Js  <br />
+- 👯 I’m looking to collaborate on OpenSource <br />
+- 🤔 I’m looking for help with ... <br />
+- 💬 Ask me about Frontend Development <br />
+</div>
+  <br />
+  <br />
+  <br />
+  <br />
   
  ## 💻 Last month's activity
   
@@ -184,12 +175,6 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></a>
-
-<a href="#">
-        <img alt="#"
-             src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="70" width="70"></a>
-  
-  
 <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow" ></a>
@@ -203,24 +188,6 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
     <a href="#"><img alt="" src=""></a>
 </p>
 
-### 💻 My favorite operating systems
-
-<p><a href="#"><img alt="Windows(8.1 , 10, 11)"
-                     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">Win8.1 , Win10, Win11</a></p>
-                     <!-- src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"-->
-
-## 🔥 Streak stats
-<p align="center">
-<!--   <a href="#">
-    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MJafar777&theme=monokai-metallian&hide_border=true"/>
-  </a> -->
-  <a href="#">
-    <img title="🔥 Streak stats" alt="MJafar777's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
-  </a>
-<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-</p>
-
-
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
@@ -231,11 +198,7 @@ this is my readme file
 
 <!-- <h4> Here are some ideas to get you started: </h4> -->
 
- - 🔭 I’m currently working on Frontend Development 
- - 🌱 I’m currently learning React Js  
- - 👯 I’m looking to collaborate on OpenSource 
- - 🤔 I’m looking for help with ... 
- - 💬 Ask me about Frontend Development 
+
 
   <!-- https://media.giphy.com/media/xUPGcEliCc7bETyfO8 -->
   
