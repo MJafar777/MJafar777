@@ -75,33 +75,29 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </a>
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MJafar777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
-<div aligin="center">
+
 - 🔭 I’m currently working on Frontend Development <br />
 - 🌱 I’m currently learning React Js  <br />
 - 👯 I’m looking to collaborate on OpenSource <br />
 - 🤔 I’m looking for help with ... <br />
 - 💬 Ask me about Frontend Development <br />
-</div>
-  <br />
-  <br />
-  <br />
-  <br />
-  
- ## 💻 Last month's activity
+
+
+ <!-- ## 💻 Last month's activity -->
   
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJafar777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJafar777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
   
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/ValisherBotirov/readme-typing-svg">
        <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
-## 🛠️ My favorite tools 
+<!-- ## 🛠️ My favorite tools 
 
 ### 👨‍💻 Programming Languages
 
@@ -134,18 +130,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## 🗄️ Databases
 
 <p>
-<!--     <a href="#">
+    <a href="#">
         <img alt="PostgreSQL"
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-    <a href="#"> -->
+    <a href="#"> 
         <img alt="SQL Server"
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="MySql"
              src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
-</p>
+</p> 
 
-### ☁ Cloud hosting
+ ### ☁ Cloud hosting
 
 <p>
     <a href="#">
@@ -166,37 +162,37 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### 💻 Software and tools
 
 <p>
-<!--     <a href="#">
+     <a href="#">
         <img alt="Conda"
              src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
     <a href="#">
         <img alt="PyCharm"
-             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> -->
+             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> 
 <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" ></a>
 <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow" ></a>
-<!--   https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif -->
-    <!-- <a href="#">
+   https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif 
+     <a href="#">
         <img alt="Postman"
-             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a> -->
+             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a> 
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
 </p>
 
-<!--  |                                                     Preview                                                     |
+ |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
 this is my readme file
 
 
-<!-- **MJafar777/Ja'far** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+ **MJafar777/Ja'far** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-<!-- <h4> Here are some ideas to get you started: </h4> -->
+ <h4> Here are some ideas to get you started: </h4> 
 
 
 
@@ -204,4 +200,4 @@ this is my readme file
   
   <!-- <a href="https://github.com/MJafar777"><img alt="MJafar777's Activity Graph" src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" align="left" height="400" width="100%"/></a> -->
   
-<!-- https://giphy.com/search/developer  <--bu gif olish mumkin bo'lgan site-->
+<!-- https://giphy.com/search/developer  <--bu gif olish mumkin bo'lgan site--> 
