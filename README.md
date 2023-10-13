@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br />
   
 <a href="https://t.me/UZ7773767">
-  <img align="left" alt="" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw1omdaR6cQvIjdNM9aKWYLt&ust=1697276915794000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIih-a7f8oEDFQAAAAAdAAAAABAE" height="25px"/>
+  <img align="left" alt="" width="32px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw1omdaR6cQvIjdNM9aKWYLt&ust=1697276915794000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIih-a7f8oEDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)" height="25px"/>
 </a>
 
 <a href="https://twitter.com/MJafar777">
