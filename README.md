@@ -1,12 +1,13 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> . I'm Ja'far, can I help you?
-
-<a href="https://discord.gg/">
+## Hey there. I'm Ja'far, can I help you?
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
+<!-- <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-
+-->
 <a href="https://t.me/UZ7773767">
   <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
 </a>
+<img width="32px" src="https://www.iconfinder.com/icons/4375108/logo_telegram_icon"/>
 
 <a href="https://twitter.com/MJafar777">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
