@@ -1,21 +1,5 @@
 ## Hey there. I'm Ja'far, can I help you?
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> -->
-<!-- <a href="https://discord.gg/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
--->
-<a href="https://t.me/UZ7773767">
-  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
-</a>
-<img width="32px" src="https://www.iconfinder.com/icons/4375108/logo_telegram_icon"/>
 
-<a href="https://twitter.com/MJafar777">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jafar-mirzaraximov-821785248/">
-  <img align="left" alt="MJafar777's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
-<br />
 <br />
 
 hi, I'm [MJafar777](https://magicsoft.uz/), a passionate self-taught full-stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -27,8 +11,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:MJafar777@gmail.com)
 - 💬 ask me about anything, I am happy to help;
-- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>  
+- <img align="left" alt="" width="30px" height="25px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" /><a href="https://t.me/uzb7773767"> This my phone number :  +99897)777-37-67</a>
+  <br />
+<a href="https://t.me/UZ7773767">
+  <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
+</a>
 
+
+<a href="https://twitter.com/MJafar777">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jafar-mirzaraximov-821785248/">
+  <img align="left" alt="MJafar777's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+</a>
 
 
 **Languages and tools:**  
