@@ -55,12 +55,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </div>     
 
   ## 📊 Github stats
- 
-  <p align="center">
-  <a href="https://github.com/MJafar777" display="block">
-    <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7" width="100%" />
-  </a>
-</p>
+  <div aligin="center" display="flex" justify="center" width="100%" >
+     <a href="https://github.com/MJafar777" display="inline" algin="left">
+      <img alt="views" title="GitHub profile views" src="https://git-trophy-tests.vercel.app/?username=MJafar777&theme=algolia&no-frame=true&column=7" width="90%" />
+    </a>
+    <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100px" top="-100px" align="right" alt="views" title="GitHub profile views"/>
+</div>
+
 
     
 
